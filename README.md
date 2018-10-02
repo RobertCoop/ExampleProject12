@@ -10,3 +10,6 @@ A third change!
 
 
 Changed again!
+
+
+Change in class
