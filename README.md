@@ -1,6 +1,6 @@
 # ExampleProject12
 
-More changes to readme!
+Other changes to readme!
 
 
 Another change!
